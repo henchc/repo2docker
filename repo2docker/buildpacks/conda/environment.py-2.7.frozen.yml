@@ -1,5 +1,5 @@
 # AUTO GENERATED FROM environment.py-2.7.yml, DO NOT MANUALLY MODIFY
-# Frozen on 2019-07-29 15:49:47 UTC
+# Frozen on 2019-08-25 21:27:45 UTC
 name: r2d
 channels:
   - conda-forge
@@ -29,7 +29,7 @@ dependencies:
   - pathlib2=2.3.4=py27_0
   - pexpect=4.7.0=py27_0
   - pickleshare=0.7.5=py27_1000
-  - pip=19.2.1=py27_0
+  - pip=19.2.3=py27_0
   - prompt_toolkit=1.0.15=py_1
   - ptyprocess=0.6.0=py_1001
   - pygments=2.4.2=py_0
@@ -38,7 +38,7 @@ dependencies:
   - pyzmq=18.0.2=py27h1768529_2
   - readline=8.0=hf8c457e_0
   - scandir=1.10.0=py27h14c3975_0
-  - setuptools=41.0.1=py27_0
+  - setuptools=41.2.0=py27_0
   - simplegeneric=0.8.1=py_1
   - singledispatch=3.4.0.3=py27_1000
   - six=1.12.0=py27_1000
@@ -47,7 +47,7 @@ dependencies:
   - tornado=5.1.1=py27h14c3975_1000
   - traitlets=4.3.2=py27_1000
   - wcwidth=0.1.7=py_1
-  - wheel=0.33.4=py27_0
+  - wheel=0.33.6=py27_0
   - zeromq=4.3.2=he1b5a44_2
   - zlib=1.2.11=h516909a_1005
 prefix: /opt/conda/envs/r2d
